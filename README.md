@@ -8,5 +8,5 @@
 
 ● Currently exploring Web Development and AI Agents
 
-● feel free to get in touch with me through LinkedIn!
+● feel free to get in touch with me via email: siddhant.collab@gmail.com
 
