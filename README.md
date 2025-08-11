@@ -6,7 +6,5 @@
 
 ● My areas of interest lies in Machine Learning, Generative AI and it's applications and Data Science and Analytics
 
-● Currently exploring Web Development and AI Agents
-
-● feel free to get in touch with me via email: siddhantghoshcodes@gmail.com
+● Currently exploring Web Development
 
