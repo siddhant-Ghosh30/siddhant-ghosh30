@@ -8,3 +8,5 @@
 
 ● Currently exploring Web Development, GenAI and AI Agents.
 
+● You can reach out to me on *siddhantg@zohomail.in*
+
