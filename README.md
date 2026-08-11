@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome!
 
-● I am **Siddhant Ghosh**, I am a Member of Technical Staff @ Hornbill AgriTech and a Research Assistant (Data Science) @ TAPMI - Max Planck Partner Group.
+● I am **Siddhant Ghosh**, I am a Member of Technical Staff @ Hornbill AgriTech
 
 ● I recently graduated with a BTech in Computer Science & Engineering (Artificial Intelligence) with a minor in Data Analytics the Manipal Institute of Technology, MAHE Bengaluru.
 
